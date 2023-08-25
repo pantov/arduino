@@ -1,0 +1,6 @@
+c490ef335e9ff722b63fd73634ba0550
+Lipetsk
+
+eaf19aa8fc1d30a7f01e734f3e2382cf
+535121
+http://api.openweathermap.org/data/2.5/weather?q=lipetsk&appid=eaf19aa8fc1d30a7f01e734f3e2382cf
